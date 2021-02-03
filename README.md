@@ -1,6 +1,6 @@
 # Frontend Lightweight Framework
  
-A frontend lightweight framework to start all your projects.
+A frontend lightweight framework based and extending "Twitter Bootstrap" to start all your projects.
 
 This framework can easily be included on any PHP or JavaScript framework like Angular, Laravel, CodeIgniter, etc...
 
