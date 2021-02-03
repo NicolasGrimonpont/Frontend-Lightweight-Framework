@@ -35,4 +35,4 @@ Add or remove the plugins you need on "js/scripts"
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Frontend Lightweight Framework framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
